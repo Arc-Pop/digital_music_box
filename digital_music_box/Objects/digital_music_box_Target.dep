@@ -1,0 +1,48 @@
+Dependencies for Project 'digital_music_box', Target 'Target': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARM_Compiler_5.06u7
+F (.\digital_music_box.c)(0x6809268E)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ../inc-I.\RTE\_Target-IC:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Arc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="541" -DTM4C123GH6PM -D_RTE_-o .\objects\digital_music_box.o --omf_browse .\objects\digital_music_box.crf --depend .\objects\digital_music_box.d)
+I (C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdio.h)(0x5E8F01A2)
+I (C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8F01A2)
+I (../inc/BSP.h)(0x68050FFF)
+I (../inc/Profile.h)(0x68051001)
+I (../inc/CortexM.h)(0x68050FFF)
+I (os.h)(0x68050FFE)
+I (../inc/pitch.h)(0x6807B9DC)
+I (../inc/songs.h)(0x68085493)
+I (settings.h)(0x6808518C)
+I (C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\include\math.h)(0x5E8F01A2)
+I (C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdlib.h)(0x5E8F01A2)
+F (.\osasm.s)(0x68050FFE)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target-IC:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Arc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 541" --pd "TM4C123GH6PM SETA 1" --pd "_RTE_ SETA 1"--list .\listings\osasm.lst --xref -o .\objects\osasm.o --depend .\objects\osasm.d)
+F (.\os.c)(0x6809455F)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ../inc-I.\RTE\_Target-IC:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Arc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="541" -DTM4C123GH6PM -D_RTE_-o .\objects\os.o --omf_browse .\objects\os.crf --depend .\objects\os.d)
+I (C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8F01A2)
+I (os.h)(0x68050FFE)
+I (../inc/CortexM.h)(0x68050FFF)
+I (../inc/BSP.h)(0x68050FFF)
+F (..\inc\BSP.c)(0x68050FFF)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ../inc-I.\RTE\_Target-IC:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Arc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="541" -DTM4C123GH6PM -D_RTE_-o .\objects\bsp.o --omf_browse .\objects\bsp.crf --depend .\objects\bsp.d)
+I (C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8F01A2)
+I (..\inc\BSP.h)(0x68050FFF)
+I (..\inc\../inc/tm4c123gh6pm.h)(0x68051001)
+F (..\inc\Profile.c)(0x68051001)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ../inc-I.\RTE\_Target-IC:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Arc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="541" -DTM4C123GH6PM -D_RTE_-o .\objects\profile.o --omf_browse .\objects\profile.crf --depend .\objects\profile.d)
+I (C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8F01A2)
+I (..\inc\../inc/tm4c123gh6pm.h)(0x68051001)
+F (..\FlashProgram\FlashProgram.c)(0x68050FFF)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ../inc-I.\RTE\_Target-IC:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Arc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="541" -DTM4C123GH6PM -D_RTE_-o .\objects\flashprogram.o --omf_browse .\objects\flashprogram.crf --depend .\objects\flashprogram.d)
+I (C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8F01A2)
+I (..\FlashProgram\FlashProgram.h)(0x68050FFF)
+F (..\FlashProgram\FlashProgram.h)(0x68050FFF)()
+F (.\settings.h)(0x6808518C)()
+F (.\settings.c)(0x680917F1)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ../inc-I.\RTE\_Target-IC:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Arc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="541" -DTM4C123GH6PM -D_RTE_-o .\objects\settings.o --omf_browse .\objects\settings.crf --depend .\objects\settings.d)
+I (C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8F01A2)
+I (../FlashProgram/FlashProgram.h)(0x68050FFF)
+I (settings.h)(0x6808518C)
+F (..\inc\songs.h)(0x68085493)()
+F (RTE/Device/TM4C123GH6PM/startup_TM4C123.s)(0x68050FFF)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target-IC:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Arc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 541" --pd "TM4C123GH6PM SETA 1" --pd "_RTE_ SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (RTE/Device/TM4C123GH6PM/system_TM4C123.c)(0x68050FFF)(--c99 -c --cpu Cortex-M4 -D__EVAL -g -O0 --apcs=interwork --split_sections --signed_chars -I ../inc-I.\RTE\_Target-IC:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Arc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="541" -DTM4C123GH6PM -D_RTE_-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
+I (C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\include\stdint.h)(0x5E8F01A2)
+I (C:\Users\Arc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x679E4063)
+I (C:\Users\Arc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123GH6PM.h)(0x679E4063)
+I (C:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x67BC87E6)
+I (C:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x67BC87E6)
+I (C:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x67BC87E6)
+I (C:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x67BC87E6)
+I (C:\Users\Arc\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x67BC87E6)
+I (C:\Users\Arc\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x679E4063)

@@ -1,0 +1,14 @@
+.\objects\digital_music_box.o: digital_music_box.c
+.\objects\digital_music_box.o: C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdio.h
+.\objects\digital_music_box.o: C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdint.h
+.\objects\digital_music_box.o: ../inc/BSP.h
+.\objects\digital_music_box.o: ../inc/Profile.h
+.\objects\digital_music_box.o: ../inc/CortexM.h
+.\objects\digital_music_box.o: os.h
+.\objects\digital_music_box.o: ../inc/pitch.h
+.\objects\digital_music_box.o: ../inc/songs.h
+.\objects\digital_music_box.o: ../inc/pitch.h
+.\objects\digital_music_box.o: ../inc/BSP.h
+.\objects\digital_music_box.o: settings.h
+.\objects\digital_music_box.o: C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\math.h
+.\objects\digital_music_box.o: C:\Users\Arc\AppData\Local\Keil_v5\ARM\ARM_Compiler_5.06u7\Bin\..\include\stdlib.h
